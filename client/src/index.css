@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Rethink Sans', sans-serif;
+}
+/* 
+@media print{
+
+    .navbar{
+        display: none;
+    }
+    #invoice{
+        display: block;
+    }
+} */
